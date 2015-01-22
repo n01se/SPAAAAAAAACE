@@ -1,6 +1,6 @@
-(ns net.noise.spaaaaaaaace-test
+(ns net.n01se.spaaaaaaaace-test
   (:require [clojure.test :refer :all]
-            [net.noise.spaaaaaaaace :refer :all]))
+            [net.n01se.spaaaaaaaace :refer :all]))
 
 (deftest a-test
   (testing "FIXME, I fail."
